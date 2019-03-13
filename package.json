@@ -10,6 +10,7 @@
   },
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.js"
+    "serve": "parcel serve index.html",
+    "build": "parcel build index.html"
   }
 }
