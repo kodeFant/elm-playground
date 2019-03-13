@@ -1,0 +1,15 @@
+{
+  "name": "elm-ui-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "elm-hot": "^1.0.1",
+    "node-elm-compiler": "^5.0.3",
+    "parcel-bundler": "^1.12.1"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.js"
+  }
+}
